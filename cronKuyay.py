@@ -8,7 +8,7 @@ def actualizar_datos_1():
     print("Inicio del proceso de actualización de datos.")
 
     # Variables de conexión a MariaDB
-    conexion_url = "mysql+mysqlconnector://root:VuSkVBlHCGGnYTpbFdKKMiqrBVrXFjRN@roundhouse.proxy.rlwy.net:18142/railway"
+    conexion_url = "mysql+pymysql://root:HrKkiMxAGVbIMwfKfwnIMKzGqcGuZPIM@roundhouse.proxy.rlwy.net:35874/railway"
 
     # URL del archivo en Google Drive
     url = 'https://drive.google.com/uc?export=download&id=1d1xCExiZWinOcoQPgcqIhxzDaqIAN1VG'
